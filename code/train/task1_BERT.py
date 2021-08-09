@@ -9,7 +9,6 @@ from tqdm import tqdm
 from torch.utils.data import Dataset
 from torch.utils.data import DataLoader
 from torch.nn.utils.rnn import pad_sequence
-task12_clean_heirachical.txt
 
 parser = ArgumentParser()
 parser.add_argument("-dataset", help="path to training set", dest="dataset", default = '../../data/train/task12_clean_heirachical.txt')
