@@ -1,0 +1,1 @@
+# Hypernym-and-Hyponym-Detection-Based-on-Auxiliary-Sentences-and-the-BERT-Model
