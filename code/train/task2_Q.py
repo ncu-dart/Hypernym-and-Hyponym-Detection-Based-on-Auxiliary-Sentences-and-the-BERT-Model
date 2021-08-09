@@ -10,7 +10,7 @@ from torch.nn.utils.rnn import pad_sequence
 from tqdm import tqdm
 
 parser = ArgumentParser()
-parser.add_argument("-dataset", help="path to dataset", dest="dataset", default = 'data/train/test_train.txt')
+parser.add_argument("-dataset", help="path to dataset", dest="dataset", default = 'data/train/task12_clean_heirachical.txt')
 parser.add_argument("-b", help="batch size, default 64", dest="b", default=64)
 parser.add_argument("-epoch", help="number of epochs, default 7", dest="epoch", default=7)
 parser.add_argument("-lr", help="learning rate, default 1e-5", dest="lr", default=1e-5)
