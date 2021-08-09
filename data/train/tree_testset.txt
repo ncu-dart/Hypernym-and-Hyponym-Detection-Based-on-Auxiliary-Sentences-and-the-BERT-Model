@@ -1,0 +1,213 @@
+id1	id2	weight
+proboscis monkey	old world monkey	1
+pygmy chimpanzee	chimpanzee	1
+new world monkey	monkey	1
+gibbon	lesser ape	1
+zinjanthropus	australopithecine	1
+baboon	old world monkey	1
+eastern lowland gorilla	gorilla	1
+rudapithecus	dryopithecine	1
+capuchin	new world monkey	1
+cro-magnon	homo sapiens	1
+great ape	anthropoid ape	1
+aye-aye	lemur	1
+lesser ape	anthropoid ape	1
+central chimpanzee	chimpanzee	1
+anthropoid ape	ape	1
+ape	primate	1
+sinanthropus	hominid	1
+vervet	guenon	1
+western lowland gorilla	gorilla	1
+saki	new world monkey	1
+sivapithecus	hominid	1
+pygmy marmoset	marmoset	1
+uakari	new world monkey	1
+aegyptopithecus	hominoid	1
+silky tamarin	tamarin	1
+guenon	old world monkey	1
+anthropoid	primate	1
+australopithecus afarensis	australopithecine	1
+woolly indris	lemur	1
+peking man	homo erectus	1
+primate	placental	1
+australopithecine	hominid	1
+algeripithecus minutus	hominoid	1
+siamang	lesser ape	1
+group	homo	1
+australopithecus robustus	australopithecine	1
+bonnet macaque	macaque	1
+boskop man	homo sapiens	1
+tamarin	marmoset	1
+java man	homo erectus	1
+homo sapiens	homo	1
+hominoid	primate	1
+langur	old world monkey	1
+tarsius syrichta	tarsier	1
+homo	hominid	1
+lemur	primate	1
+australopithecus boisei	australopithecine	1
+drill	baboon	1
+pinche	tamarin	1
+gorilla	great ape	1
+simian	primate	1
+chimpanzee	great ape	1
+javanthropus	hominid	1
+homo erectus	homo	1
+marmoset	new world monkey	1
+slow loris	lemur	1
+solo man	homo soloensis	1
+western chimpanzee	chimpanzee	1
+australopithecus africanus	australopithecine	1
+titi	new world monkey	1
+prosimian	primate	1
+monkey	primate	1
+proconsul	hominoid	1
+squirrel monkey	new world monkey	1
+homo habilis	homo	1
+tarsius glis	tarsier	1
+entellus	langur	1
+paranthropus	australopithecine	1
+world	group	1
+mangabey	old world monkey	1
+indri	lemur	1
+howler monkey	new world monkey	1
+mandrill	baboon	1
+homo sapiens sapiens	homo sapiens	1
+pithecanthropus	hominid	1
+angwantibo	lemur	1
+slender loris	lemur	1
+douroucouli	new world monkey	1
+dryopithecine	hominid	1
+barbary ape	macaque	1
+grivet	guenon	1
+true marmoset	marmoset	1
+hominid	primate	1
+silverback	gorilla	1
+green monkey	guenon	1
+macaque	old world monkey	1
+spider monkey	new world monkey	1
+mountain gorilla	gorilla	1
+rhodesian man	homo	1
+rhesus	macaque	1
+madagascar cat	lemur	1
+patas	old world monkey	1
+neandertal man	homo	1
+eastern chimpanzee	chimpanzee	1
+colobus	old world monkey	1
+homo soloensis	homo	1
+crab-eating macaque	macaque	1
+orangutan	great ape	1
+potto	lemur	1
+galago	lemur	1
+tarsier	primate	1
+woolly monkey	new world monkey	1
+old world monkey	monkey	1
+guereza	colobus	1
+chacma	baboon	1
+talapoin	guenon	1
+proboscis monkey	guenon	0
+saki	howler monkey	0
+new world monkey	old world monkey	0
+titi	howler monkey	0
+zinjanthropus	paranthropus	0
+patas	colobus	0
+proboscis monkey	colobus	0
+homo erectus	homo soloensis	0
+rhodesian man	neandertal man	0
+javanthropus	pithecanthropus	0
+slow loris	galago	0
+pygmy chimpanzee	western chimpanzee	0
+pygmy chimpanzee	central chimpanzee	0
+angwantibo	potto	0
+capuchin	douroucouli	0
+aye-aye	indri	0
+javanthropus	dryopithecine	0
+slow loris	indri	0
+proboscis monkey	patas	0
+capuchin	squirrel monkey	0
+uakari	douroucouli	0
+australopithecine	javanthropus	0
+australopithecus boisei	paranthropus	0
+homo erectus	homo soloensis	0
+javanthropus	dryopithecine	0
+australopithecine	pithecanthropus	0
+saki	howler monkey	0
+saki	woolly monkey	0
+lemur	prosimian	0
+capuchin	spider monkey	0
+homo erectus	neandertal man	0
+rhodesian man	homo soloensis	0
+uakari	spider monkey	0
+woolly indris	indri	0
+langur	patas	0
+sinanthropus	australopithecine	0
+marmoset	squirrel monkey	0
+saki	marmoset	0
+hominoid	simian	0
+homo	javanthropus	0
+howler monkey	woolly monkey	0
+uakari	squirrel monkey	0
+titi	spider monkey	0
+saki	douroucouli	0
+patas	colobus	0
+lemur	monkey	0
+central chimpanzee	western chimpanzee	0
+angwantibo	galago	0
+anthropoid	simian	0
+group	neandertal man	0
+group	homo sapiens	0
+marmoset	squirrel monkey	0
+simian	monkey	0
+langur	mangabey	0
+uakari	douroucouli	0
+group	homo sapiens	0
+simian	tarsier	0
+uakari	marmoset	0
+capuchin	saki	0
+anthropoid	tarsier	0
+sinanthropus	homo	0
+ape	hominid	0
+zinjanthropus	australopithecus robustus	0
+ape	simian	0
+mangabey	colobus	0
+uakari	titi	0
+squirrel monkey	woolly monkey	0
+group	homo soloensis	0
+australopithecine	javanthropus	0
+woolly indris	angwantibo	0
+prosimian	tarsier	0
+lemur	hominid	0
+marmoset	spider monkey	0
+capuchin	douroucouli	0
+homo habilis	homo soloensis	0
+woolly indris	angwantibo	0
+woolly indris	madagascar cat	0
+sivapithecus	australopithecine	0
+uakari	woolly monkey	0
+uakari	douroucouli	0
+saki	douroucouli	0
+sinanthropus	pithecanthropus	0
+uakari	spider monkey	0
+anthropoid	monkey	0
+silverback	mountain gorilla	0
+indri	madagascar cat	0
+madagascar cat	galago	0
+woolly indris	galago	0
+langur	patas	0
+hominid	tarsier	0
+sinanthropus	pithecanthropus	0
+saki	spider monkey	0
+mangabey	colobus	0
+lemur	prosimian	0
+great ape	lesser ape	0
+ape	hominid	0
+sinanthropus	pithecanthropus	0
+group	neandertal man	0
+baboon	mangabey	0
+bonnet macaque	barbary ape	0
+sinanthropus	homo	0
+aye-aye	slow loris	0
+woolly indris	slender loris	0
+group	rhodesian man	0
+bonnet macaque	rhesus	0
+western chimpanzee	eastern chimpanzee	0
