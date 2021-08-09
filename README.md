@@ -21,7 +21,7 @@ or
 $python task1_PosNeg.py
 ```
 to train task1 model with default parameters.
-* Or use
+* Use
 ```
 
 $python task1_BERT.py -dataset        <path to training set, default to WordNet training set> 
@@ -53,7 +53,7 @@ $python task2_PosNeg.py
 ```
 to train task2 model with default parameters.
 
-* Or use
+* Use
 ```
 $python task2_BERT.py -dataset        <path to training set, default to WordNet training set> 
                       -label          <training set with label or not> 
