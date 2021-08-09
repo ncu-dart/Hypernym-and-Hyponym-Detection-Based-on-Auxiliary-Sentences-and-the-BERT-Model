@@ -3,12 +3,12 @@
 We utilize English BERT pre-trained model and auxiliary sentences for Hypernym and Hyponym Detection.
 # Run
 ## Training Task1
-first, go to the path
+* First, go to the path
 ```
 cd code
 cd train
 ```
-use
+* Use
 ```
 $python task1_BERT.py
 ```
@@ -20,7 +20,8 @@ or
 ```
 $python task1_PosNeg.py
 ```
-to train task1 model with default parameters, or use
+to train task1 model with default parameters.
+* Or use
 ```
 
 $python task1_BERT.py -dataset        <path to training set, default to WordNet training set> 
@@ -31,14 +32,14 @@ $python task1_BERT.py -dataset        <path to training set, default to WordNet 
                       -model          <name of model default save to'output/task1_BERT_epoch.pth'> 
 ```                      
 to train with your own parameters.
-  
+
 ## Training Task2
-first, go to the path
+* First, go to the path
 ```
 cd code
 cd train
 ```
-use
+* Use
 ```
 $python task2_BERT.py
 ```
@@ -50,7 +51,9 @@ or
 ```
 $python task2_PosNeg.py
 ```
-to train task2 model with default parameters, or use
+to train task2 model with default parameters.
+
+* Or use
 ```
 $python task2_BERT.py -dataset        <path to training set, default to WordNet training set> 
                       -label          <training set with label or not> 
@@ -61,14 +64,15 @@ $python task2_BERT.py -dataset        <path to training set, default to WordNet 
 ```                      
 to train with your own parameters.
   
+* Use create_negative_dataset.py to generate task1 negative dataset for PosNeg model.
 # Evaluation
-first, go to the path
+* First, go to the path
 ```
 cd code
 cd evaluate
 ```
 ## Task1 Evaluation
-use
+* Use
 ```
 $python eval_task1_BERT.py -model_path MODEL_PATH    <path to model>
 ```
@@ -81,7 +85,7 @@ $python eval_task1_PosNeg.py -model_path MODEL_PATH    <path to model>
 to evaluate task1 model.
 
 ## Eask2 and Eask1&2 Evaluation
-use
+* Use
 ```
 $python eval_task1_2_BERT.py -model1_path <MODEL1_PATH>
                              -model2_path <MODEL2_PATH>
@@ -96,4 +100,4 @@ $python eval_task1_2_PosNeg.py -model1_path <MODEL1_PATH>
 ```
 to evaluate task2 and task1&2.
 # Datasets
-see more in [training dataset README](https://github.com/ncu-dart/Hypernym-and-Hyponym-Detection-Based-on-Auxiliary-Sentences-and-the-BERT-Model/blob/main/data/README.md)
+* see more in [training dataset README](https://github.com/ncu-dart/Hypernym-and-Hyponym-Detection-Based-on-Auxiliary-Sentences-and-the-BERT-Model/blob/main/data/train/README.md)
