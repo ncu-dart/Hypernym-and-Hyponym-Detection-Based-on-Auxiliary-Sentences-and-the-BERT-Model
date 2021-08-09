@@ -5,6 +5,7 @@ We utilize English BERT pre-trained model and auxiliary sentences for Hypernym a
 ## Training Task1
 * First, go to the path
 ```
+cd Hypernym-and-Hyponym-Detection-Based-on-Auxiliary-Sentences-and-the-BERT-Model
 cd code
 cd train
 ```
