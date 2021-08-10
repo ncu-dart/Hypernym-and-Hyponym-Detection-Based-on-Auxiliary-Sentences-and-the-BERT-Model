@@ -1,6 +1,6 @@
-# Hypernym-and-Hyponym-Detection-Based-on-Auxiliary-Sentences-and-the-BERT-Model
+# Hypernym and Hyponym Detection Based on Auxiliary Sentences and the BERT Model
 # Introduction 
-We utilize English BERT pre-trained model and auxiliary sentences for Hypernym and Hyponym Detection.
+We utilize English BERT pre-trained model and auxiliary sentences for Hypernym and Hyponym Detection. [Paper](https://drive.google.com/file/d/1_5IXWFJ1zGnYd8bnhC73H7ezfzI5xdvw/view?usp=sharing)
 # Run
 ## Training Task1
 * First, go to the path
